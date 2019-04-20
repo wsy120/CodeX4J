@@ -1,5 +1,7 @@
 # CodeX4J
 
+https://www.cnblogs.com/chengyujia/p/10232677.html
+
 CodeX4J是一款开源的Java代码生成器，整个软件就一个jar包，双击即可运行，操作非常简单。  
 CodeX4J根据数据库自动生成基于Maven的SSM项目，包含SSM框架的基本配置和各层基础代码。  
 其中Mapper和Model是调用MyBatis的官方代码生成器生成，并且自定义了Model注释的生成规则。  
